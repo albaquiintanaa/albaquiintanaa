@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27A1B9&center=true&vCenter=true&width=600&lines=%3E_Administrando+Sistemas+y+Redes;%3E_Operando+entornos+Linux;%3E_Desplegando+y+gestionando+servicios" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albaquiintanaa/albaquiintanaa/main/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albaquiintanaa/albaquiintanaa/main/profile-3d-contrib/profile-gitblock.svg" />
-    <img alt="Arquitectura 3D de mis contribuciones" src="https://raw.githubusercontent.com/albaquiintanaa/albaquiintanaa/main/profile-3d-contrib/profile-night-view.svg" />
-  </picture>
-</p>
-
 ---
 
 ##  Acerca de mí
@@ -32,6 +24,8 @@ perfil_alba = AlbaRamos()
 perfil_alba.obtener_perfil()
 
 ```
+
+---
 
 ## 🛠️ Tecnologías
 
